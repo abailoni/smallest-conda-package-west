@@ -2,4 +2,4 @@
 [![condainstall](https://anaconda.org/lcerrone/scpw/badges/installer/conda.svg)](https://anaconda.org/lcerrone/scpw/)
 
 # smallest-conda-package-west
-Smallest Conda Package in the West
+Smallest Conda Package in the West fddffdkfnkf
